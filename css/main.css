@@ -1,0 +1,95 @@
+.avion{
+	width: 148px;
+	height: 200px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+.icono{
+	position: relative;
+	display: inline;
+	float: left;
+	background-color: #F8F5F5;
+}
+
+.ruby,.love,.cafe,.comida{
+	width: 148px;
+	height: 200px;
+	margin-top: 20px;
+	margin-left: 5px;
+}
+
+.icon-paperplane,.icon-diamond,.icon-heart,.icon-cup,.icon-food{
+    font-size: 35px;
+    color:grey;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.avion:hover{
+	background-color: #FFFFFF;
+	border:1px solid #DFDDDD;
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+	margin-right: 3px;
+}
+
+.ruby:hover{
+	background-color: #FFFFFF;
+	border:1px solid #DFDDDD;
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+	margin-right: 3px;
+}
+
+.love:hover{
+	background-color: #FFFFFF;
+	border:1px solid #DFDDDD;
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+	margin-right: 3px;
+}
+
+.cafe:hover{
+	background-color: #FFFFFF;
+	border:1px solid #DFDDDD;
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+	margin-right: 3px;
+}
+
+.comida:hover{
+	background-color: #FFFFFF;
+	border:1px solid #DFDDDD;
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+	margin-right: 3px;
+}
+
+
+h3{
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+h6{
+	font-family: 'Bitter', serif;
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 2px;
+	text-align: center;
+}
+
+p{
+	font-family: 'Andada', serif;
+	margin-top: 5px;
+	font-size: 11px;
+	text-align: center;
+}
